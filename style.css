@@ -1,7 +1,9 @@
 body {
   color: white;
-  background-color: #333;
-  font-size: 150%;
+  background-color: black;
   font-family: 'Sacramento', cursive;
-  margin: 5em 25%;
+  font-size: 32px;
+  margin-top: 5%;
+  margin-left: 20%;
+  margin-right: 20%;
 }
